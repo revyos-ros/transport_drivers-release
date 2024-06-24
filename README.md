@@ -1,3 +1,30 @@
+## transport_drivers (jazzy) - 1.2.0-5
+
+The packages in the `transport_drivers` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy transport_drivers --override-release-repository-push-url git@github.com:revyos-ros/transport_drivers-release` on `Mon, 24 Jun 2024 13:34:43 -0000`
+
+These packages were released:
+- `asio_cmake_module`
+- `io_context`
+- `serial_driver`
+- `udp_driver`
+
+Version of package(s) in repository `transport_drivers`:
+
+- upstream repository: https://github.com/ros-drivers/transport_drivers.git
+- release repository: https://github.com/revyos-ros/transport_drivers-release.git
+- rosdistro version: `1.2.0-4`
+- old version: `1.2.0-4`
+- new version: `1.2.0-5`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## transport_drivers (humble) - 1.2.0-3
 
 The packages in the `transport_drivers` repository were released into the `humble` distro by running `/usr/bin/bloom-release --ros-distro humble --track humble transport_drivers --edit --override-release-repository-url https://github.com/ros2-gbp/transport_drivers-release.git --override-release-repository-push-url git@github.com:ros2-gbp/transport_drivers-release.git` on `Mon, 30 Jan 2023 21:48:31 -0000`
